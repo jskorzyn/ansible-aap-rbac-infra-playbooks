@@ -7,7 +7,7 @@
     - name: Debug with message "Upgrade OS ver"
       # Content suggestion provided by Ansible Lightspeed
       ansible.builtin.debug:
-        msg: "Upgrade OS ver 1.0"
+        msg: "Upgrade OS ver 2.0"
 
     - name: Add wait task 10s
       # Content suggestion provided by Ansible Lightspeed
